@@ -4,7 +4,7 @@ import BodyContainer from './BodyContainer'
 const App = () => (
   <div className="container">
     <BodyContainer
-      ownerUsername="mrtang"
+      ownerUsername="kaizerwing"
       enableTweet
     />
   </div>
